@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">小豬記帳本</string>
+    <string name="title_activity_chart">chart</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="TIME">Time : | </string>
+    <string name="PRICE">Price : | </string>
+    <string name="CLASS">Class : | </string>
+    <string name="NOTE">Note : | </string>
+    <string name="SAVE">Save</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="NEXT">Next</string>
+    <string name="HINT_TIME">Pls enter time </string>
+    <string name="HINT_PRICE">Pls enter price</string>
+    <string name="HINT_CLASS">Pls choose class</string>
+    <string name="HINT_NOTE">Pls enter note</string>
+    <string name="CORRECT">Correct</string>
+    <string name="NO_DATA">Empty</string>
+
+
+    <string name="IN">Income</string>
+    <string name="OUT">Pay Out</string>
+    <string name="TOTAL">Cash Flow</string>
+    <string name="BUILD">Add Data</string>
+
+    <string name="CHART1">Pay Out(Total)</string>
+    <string name="CHART2">Income Chart(Total)</string>
+
+    <string name="SYNC">Resynchronized!</string>
+    <string name="FIX">Successfully modified!</string>
+    <string name="ADD_SUCCESS">added successfully</string>
+
+    <string name="TITLE_RECORD">Income and expenditure records</string>
+    <string name="TITLE_RECORD_INPUT">Income/expenditure</string>
+    <string name="TITLE_RECORD_MENU_SRC">Search</string>
+    <string name="TITLE_RECORD_MONTH">Monthly expenditure</string>
+    <string name="TITLE_RECORD_CHART">Chart</string>
+
+    <string name="CHART_BRE">Breakfast</string>
+    <string name="CHART_LAN">launch</string>
+    <string name="CHART_DIN">dinner</string>
+    <string name="CHART_LIF">life</string>
+    <string name="CHART_CLO">cloths</string>
+    <string name="CHART_TRA">traffic</string>
+    <string name="CHART_DRI">drinks</string>
+    <string name="CHART_MED">medicine</string>
+    <string name="CHART_ENT">entertainment</string>
+    <string name="CHART_STU">study</string>
+    <string name="CHART_OTH">others</string>
+    <string name="CHART_INC">income</string>
+
+</resources>

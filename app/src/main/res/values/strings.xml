@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">小豬記帳本</string>
+    <string name="title_activity_chart">chart</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="TIME">時間 : | </string>
+    <string name="PRICE">金額 : | </string>
+    <string name="CLASS">類別 : | </string>
+    <string name="NOTE">備註 : | </string>
+    <string name="SAVE">保存</string>
+    <string name="CANCEL">取消</string>
+    <string name="NEXT">下一筆</string>
+    <string name="HINT_TIME">請輸入時間 </string>
+    <string name="HINT_PRICE">請輸入金額</string>
+    <string name="HINT_CLASS">請輸入類別</string>
+    <string name="HINT_NOTE">請輸入備註</string>
+    <string name="CORRECT">確認</string>
+    <string name="NO_DATA">沒有資料</string>
+
+
+    <string name="IN">收入</string>
+    <string name="OUT">支出</string>
+    <string name="TOTAL">總收支</string>
+    <string name="BUILD">建立一筆交易</string>
+
+    <string name="CHART1">支出圓餅圖(總)</string>
+    <string name="CHART2">收入圓餅圖(總)</string>
+
+    <string name="SYNC">已重新同步!</string>
+    <string name="FIX">修改成功!</string>
+    <string name="ADD_SUCCESS">新增成功!</string>
+
+    <string name="TITLE_RECORD">收支紀錄</string>
+    <string name="TITLE_RECORD_INPUT">支出/收入</string>
+    <string name="TITLE_RECORD_MENU_SRC">搜尋</string>
+    <string name="TITLE_RECORD_MONTH">月支出</string>
+    <string name="TITLE_RECORD_CHART">收支圓餅圖</string>
+
+    <string name="CHART_BRE">早餐</string>
+    <string name="CHART_LAN">午餐</string>
+    <string name="CHART_DIN">晚餐</string>
+    <string name="CHART_LIF">生活</string>
+    <string name="CHART_CLO">服飾</string>
+    <string name="CHART_TRA">交通</string>
+    <string name="CHART_DRI">飲料</string>
+    <string name="CHART_MED">醫療</string>
+    <string name="CHART_ENT">娛樂</string>
+    <string name="CHART_STU">進修</string>
+    <string name="CHART_OTH">其他</string>
+    <string name="CHART_INC">收入</string>
+
+
+
+
+</resources>
